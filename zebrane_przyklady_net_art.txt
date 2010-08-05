@@ -1,0 +1,94 @@
+Jodi.org (Joan Heemskerk i Dirk Paesmans)
+(http://en.wikipedia.org/Jodi.org)
+ wiele projektów. strona głowna (http://jodi.org/ przekierowuje losowo
+   na któryś z nich (projektów)
+ http://text.jodi.org/ - labirynt kilkuset stron, każda składa się z linków
+   do mnóstwa innych, zawiera najczęściej zbiór nic nie oznaczających
+   znaków ASCII (labirynt hipertekstowy
+ http://404.jodi.org/ - każdy kto odwiedzi stronę może dopisać coś
+   od siebie, do czegoś, co wyglądem przypomina rozmowę, jednak nie
+   zawiera żadnej sensownej treści, na dzień dzisiejszy najnowsze wpisy
+   wyglądają tak:
+hrv_
+_~~_
+!BwTZgPwWk~$(KGrHqZ,!h4v1+GP8+BMTNgL!~~_12_
+456_
+?_
+ll_
+,l,l_
+lll_
+dt dt_
+dsfdds_
+th fx nd th hnds_
+
+http://wwwwwwwww.jodi.org/ - gdzie jest strona z nic nie znaczącym tekstem,
+a kod źródłowy okazuje się być ASCII art!!! (podobno pierwsza strona Jodi.org)
+
+
+http://www.0100101110101101.org (Eva and Franco Mattes)
+(http://en.wikipedia.org/wiki/Eva_and_Franco_Mattes)
+
+z wikipedii, akcja NIKE:
+
+Późnym latem 2003 roku pojawiły się plany rewitalizacji placu Karola
+ w Wiedniu  i jego przemianowania na plac Nike. Jak wynikało ze strony
+ internetowej[10], planowano przeprowadzenie kampanii także w innych miejscach
+ świata. Oprócz przemianowania placu, przewidziano również ustawienie
+ monumentu w kształcie logo Nike (tzw. "Swoosh") o długości 36 i wysokości
+ 18 metrów. W związku z kampanią zaprojektowany został także but sportowy
+ o nazwie Ground Turbulence III, którego pierwszą parę miał założyć burmistrz
+ Wiednia w dniu otwarcia "placu Nike"[11].
+
+Na miejscu postawiono pawilon informacyjny, w którym można było obejrzeć
+ model placu po planowanych zmianach. Wszystkim zainteresowanym rozdawano
+ broszury informacyjne dotyczące całego przedsięwzięcia. Gdy plany koncernu
+ dotarły do opinii publicznej w mediach rozgorzała wojna[11].
+
+Zaczęły się pojawiać jednak przypuszczenia, że inicjatorem całego
+ przedsięwzięcia wcale nie jest Nike. Nike Austria wielokrotnie odcinało
+ się od kampanii, co tylko wzmocniło podejrzenia. Koncern zapowiedział
+ złożenie pozwu: "W tym przypadku nie mamy niestety do czynienia z niewinnym
+ żartem, ale z naruszeniem naszej marki. Dlatego też Nike podejmie kroki
+ prawne wobec pomysłodawców tej mistyfikacji"[12].
+
+Z czasem stało się jasne, kto jest za wszystko odpowiedzialny.
+ W przedsięwzięciu uczestniczyła grupa artystów 0100101110101101.org
+ oraz Public Netbase – mający w Wiedniu swoją siedzibę Institute for New
+ Culture Technologies[13]. Organizacje przeprowadziły akcję, by zwrócić
+ uwagę na problem "zawłaszczania" przez koncerny przestrzeni publicznej[11].
+
+Nike złożyło pozew w związku z naruszeniem ich praw. Jednak po pewnym czasie,
+ z powodu (międzynarodowych) artykułów prasowych, koncern wycofał pozew.
+ Z perspektywy public relations okazał on się fatalnym zagraniem i doprowadził
+ do poważnego uszczerbku na wizerunku firmy[11]. 0100101110101101.org i Public
+ Netbase napisały: "Próby zastraszenia, którymi posłużył się koncern znany
+ ze stosowania podobnych strategii marketingowych, wróciły do niego niczym
+ bumerang"[14].
+
+# ↑ nikeground.com (ang.). [dostęp 22 listopada 2009 r.].
+# ↑ 11,0 11,1 11,2 11,3 R. Maier: Image. Imagine. Imagineering. Intervenieren im kognitiven Kapitalismus. W: Ch. Haug, R. Maier, B. Schröder: Kampf um Teilhabe. Akteure, Orte, Strategien. Hamburg: 2008. ISBN 978-3-89965-299-4. 
+# ↑ kopia komunikatu prasowego firmy Nike (niem.). FCB Events & PR, 3 października 2003 r. [dostęp 22 listopada 2009 r.].
+# ↑ nikeground (niem.). Institute for New Culture Technologies. [dostęp 22 listopada 2009 r.].
+# ↑ Nike-Klage gegen Kunstprojekt zurückgezogen (niem.). Institute for New Culture Technologies, 7 stycznia 2004 r. [dostęp 22 listopada 2009 r.].
+
+
+kolejne zaagażowana kultowa akcja, to toywars, opisane np
+u Ewy.
+
+http://en.wikipedia.org/wiki/Hell.com - banalnie prosta strona,
+a podobno mnóstwo odwiedzin, zmieniana w czasie, można opisać
+co ma teraz ;)
+
+
+http://techsty.art.pl/
+portal z tekstami na temat sztuki nowych mediów w postaci hipertekstu
+
+http://techsty.art.pl/HGS/
+powieść hipertekstowa
+
+http://www.runme.org/
+sodtware-art, code-poetry itp.
+
+http://numeral.com/
+strona jakiegoś artysty, jeszcze nie wiem dokładnie co to jest ;)
+

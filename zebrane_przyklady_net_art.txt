@@ -103,4 +103,8 @@ The World's First Collaborative Sentence (Douglas Davis, 1994)
 http://ca80.lehman.cuny.edu/davis/Sentence/sentence1.html (nie działa)
 http://stage.itp.nyu.edu/history/timeline/sentence.html (opis gdzie indziej)
 
+IPPainting (czyli każdy odwiedzający daje swoje ip do algorytmów, które
+tworzą, przekształcają obrazy):
+http://www.b-l-u-e-s-c-r-e-e-n.net/ipPainting/
+
 

@@ -1,4 +1,6 @@
 *.swp
+*.odt
+*.rtf
 *.pdf
 *.ps
 *.dvi

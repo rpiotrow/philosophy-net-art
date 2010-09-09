@@ -1,10 +1,19 @@
+%Jak zrobić praca.rtf:
+%1) odkomentować linijkę z \usepackage[margin=3.cm]{geometry}
+%2) make && latex2rtf praca && ooffice praca.rtf
+%3) Select all && Format > Paragraph > Indents & Spacing > Line spacing na 1.5
+%4) Prawy > Edit paragraph style > rozmiar czcionki na 12pt
+%Uwaga: wszystkie \footnote{ zaczynać spacją} w ps nie ma różnicy, w rtf
+%       wygląda dużo lepiej
+
+
 %\documentclass[a4paper,12pt,twoside,openright]{report}
 \documentclass[a4paper,12pt,twoside]{article}
-\usepackage{indentfirst}
+\usepackage{indentfirst}    % nie działa w rtf
 \usepackage[utf8]{inputenc}
 \usepackage{polski}
-%\usepackage[margin=3.0cm]{geometry}
-\linespread{1.3}            % interlinia 1.5
+%\usepackage[margin=3.0cm]{geometry}  % to być musi włączone dla rtf
+\linespread{1.3}            % interlinia 1.5 % nie działa w rtf
 \frenchspacing              % brak większego odstępu po kropce
 \sloppy                     % lepsze łamanie linii
 \setlength{\oddsidemargin}{0.6cm}  
@@ -95,7 +104,7 @@ wielokierunkowej komunikacji, podstawowe jakości sztuki. Otwartość,
 powszechność, bezgraniczność, to cechy net art; akcentowanie wolności,
 anarchiczność oraz zainteresowania społeczne i polityczne, to charakteystyczne
 atrybuty postawy artystów realizujących swoje twórcze projekty
-w cyberprzestrzeni}\footnote{Ryszard Kluszczyński,
+w cyberprzestrzeni}\footnote{ Ryszard Kluszczyński,
 \textit{Społeczeństwo informacyjne. ...}, Kraków 2002, s. 132}.
 Zastrzegł, iż jest to definicja ogólna i wstępna, przewidując, że refleksja
 nad sztuką Internetu będzie musiała zmieniać się wraz ze swoim przedmiotem.
@@ -114,7 +123,7 @@ hipertekstową, nielinearną budowę i zakłada aktywny odbiór w postaci
 wielokierunkowej nawigacji. Oprócz wizualnej postaci dzieła, ważny jest
 proces interaktywnej komunikacji. (...) Net artyści unikają definicji
 i zacierają granice między sztuką a przestrzenią
-Sieci}\footnote{Ewa Wójtowicz, \textit{Net art}, Kraków 2008, s. 11-12}.
+Sieci}\footnote{ Ewa Wójtowicz, \textit{Net art}, Kraków 2008, s. 11-12}.
 Jest to definicja dużo bardziej konkretna. Ścisły związek net artu
 z Internetem i technologią jest bezpośrednio wyrażony wraz z kilkoma
 istotnym cechami sztuki Internetu. Definicja pochodzi z roku 2008
@@ -134,7 +143,7 @@ przyjąć konkretną formę w postaci artystycznych stron www, sztuki w e-mail,
 artystycznego oprogramowania internetowego, bazujących na internecie lub
 połączonych w sieć instalacjach, online wideo, pracach radiowych lub audio,
 sieciowych występach i instalacjach lub występach
-offline}\footnote{http://pl.wikipedia.org/wiki/Sztuka\_Internetu}.
+offline}\footnote{ http://pl.wikipedia.org/wiki/Sztuka\_Internetu}.
 Najbardziej odpowiadającą dla mnie jest definicja pani Ewy Wójtowicz,
 która zawiera wszystkie najważniejsz cechy net art. Bardzo trafne jest
 także określenie cytowane w wikipedii - net art to projekty, dla których
@@ -168,7 +177,7 @@ Wraz z rozwojem technologii do zdania można było dodawać nie tylko
 słowa, ale również obrazki, linki i dźwięki oraz używać różnych krojów
 i rozmiarów czcionek. Dzieło ewoluowało przez kilka lat wraz z Internetem.
 Obecnie nie jest już dostępne, można znaleźć jego
-opisy\footnote{Douglas Davis, \textit{The World's First Collaborative
+opisy\footnote{ Douglas Davis, \textit{The World's First Collaborative
 Sentence} (1994), http://stage.itp.nyu.edu/history/timeline/sentence.html}.
 
 %The File Room
@@ -176,7 +185,7 @@ Niektóre pierwsze inicjatywy net art istniały jednocześnie w Internecie
 i galerii wystawowej. Dotyczy to między innymi projektu
 \textit{The File Room}. Jest to zbiór przypadków cenzury tekstów z całego
 świata. W Internecie istnieje do dziś jako strona
-internetowa\footnote{Antonio Muntadas, \textit{The File Romm} (1994),
+internetowa\footnote{ Antonio Muntadas, \textit{The File Romm} (1994),
 http://www.thefileroom.org/}. Odwiedzający
 może dodać nowe wpisy za pomocą przygotowanego formularza. Może w ten sposób
 przyczynić się do rozbudowania istniejącej bazy. Dzieło to zostało również
@@ -189,13 +198,13 @@ W połowie lat dziewiędziesiątych powstało kilka grup artystów zajmujących
 się sztuką Internetu. Jest to na przykład Jodi.org -- grupa
 składająca się z dwóch artystów: Joan Heemskerk i Dirk Paesmans. Jedną
 z ich pierwszych prac jest
-\textit{wwwwwwwww.jodi.org}\footnote{Jodi.org, http://wwwwwwwww.jodi.org/
+\textit{wwwwwwwww.jodi.org}\footnote{ Jodi.org, http://wwwwwwwww.jodi.org/
 (1995)}. Pozornie jest to strona internetowa, zawierającą bezsensowne
 migające, zielone znaczki. Kiedy spojrzy się w źródło tej strony okazuje
 się, że zawiera ono rysunki wykonane w technice ASCII-art. Sama strona
 jest jednym wielkim odnośnikiem do innych stron tego projektu, w których
 strutyrze można się zgubić. Podobnie jest w projekcie o nazwie
-\textit{text.jodi.org}\footnote{Jodi.org, http://text.jodi.org/}. Mamy tutaj
+\textit{text.jodi.org}\footnote{ Jodi.org, http://text.jodi.org/}. Mamy tutaj
 do czynienia z labiryntem kilkuset stron pełnych bezsensownych znaczków
 i odnośników do kolejnych stron pełnych bezsensownych znaczków. Praca
 ta może być postrzegana jako wskazanie na możliwość zgubienia się w Internecie
@@ -206,7 +215,7 @@ Istnieją dzieła net art w których odbiorca bierze udział w współtworzeniu
 dzieła w sposób świadomy, czasem przemyślany, a isnieją także takie,
 które wykorzystują uczestnictwo odbiorcy w sposób nieświadomy lub informują
 go o tym po fakcie. Przykładem może być projekt
-\textit{IPPainting}\footnote{http://www.b-l-u-e-s-c-r-e-e-n.net/ipPainting/},
+\textit{IPPainting}\footnote{ http://www.b-l-u-e-s-c-r-e-e-n.net/ipPainting/},
 w którym adres IP każdego odwiedzającego jest używany jako parametr w wielu
 skomplikowanych algorytmach, które tworzą obrazy. Po wejściu na stronę
 projektu każdy współtwórca może zobaczyć w tworzeniu jakich obrazów
@@ -219,12 +228,12 @@ lub ekologicznie. Artyści niejednokrotnie parodiowali strony internetowe
 korporacji lub instytycji, dokonywali wirtulanych porwań, plagiatów,
 sabotaży i innego rodzaju ataków z użyciem technologii internetowych.
 W spotkanej przeze mnie literaturze tego typu działania takie nazywa się
-haktywizmem\footnote{Ewa Wójtowicz, \textit{Net art}, str 126-127}.
+haktywizmem\footnote{ Ewa Wójtowicz, \textit{Net art}, str 126-127}.
 Słowo to wywodzi się od angielskiego pojęcia \textit{hacking},
 które media używają powszechnie na określenie łamania zabezpieczeń
 systemów komputerowych w celu dokonania kradzieży lub innej szkody.
 W subkulturze hakerów, na takie działania istnieje inne określenie --
-\textit{cracking}\footnote{http://catb.org/jargon/html/C/cracking.html}.
+\textit{cracking}\footnote{ http://catb.org/jargon/html/C/cracking.html}.
 Haker, w przeciwieństwie do crackera, nigdy nie
 powoduje żadnych szkód. Według nomenklatury społeczności hakerskiej
 akcje, które powodują szkody serwisów, na przykład ataki denial-of-service
@@ -260,14 +269,14 @@ skoordynowane ataki denial-of-service czy też udostępnienie w Internecie
 prywatnego numeru telefonu prezesa firmy. W wyniku przeprowadzonych
 dywersji przez etoys i mnóstwa innych osób, które postanowiły pomóc grupie,
 ceny akcji firmy zabawkarskiej spadły, w krótkim okresie czasu,
-z 67 dolarów do 15\footnote{http://toywar.etoy.com/}.
+z 67 dolarów do 15\footnote{ http://toywar.etoy.com/}.
 Wydarzenia te miały miejsce w gorącym okresie
 przedświątecznym, co spowodowało bardzo znaczne obniżenie dochodów firmy.
 Ostatecznym zwycięstwem było wycofanie pozwu i odblokowanie strony grupy
 etoy. Akcja została nazwana najdroższym performance'em w historii i była
 chyba pierwszym przypadkiem tak donośnego wpływu działań w Internecie
 na działania w świecie realnym i na
-odwrót\footnote{Ewa Wójtowicz, \textit{Net art}, str 131-135}.
+odwrót\footnote{ Ewa Wójtowicz, \textit{Net art}, str 131-135}.
 
 %0100101110101101.org (nikeground)
 \textit{Nike Ground} jest przykładem akcji grupy 
@@ -277,30 +286,30 @@ wielkiego monumentu w kształcie loga firmy Nike, zmianę nazwy na
 plac Nike oraz produkcję nowego modelu buta upamiętniającego to wydarzenie,
 pierwszą parę miał założyć burmistrz miasta na uroczystości otwarcia
 odnowionego placu
-Nike\footnote{http://pl.wikipedia.org/wiki/Nike\_(firma)\#Nike\_Ground}.
+Nike\footnote{ http://pl.wikipedia.org/wiki/Nike\_(firma)\#Nike\_Ground}.
 Powstała strona
-internetowa\footnote{0100101110101101.org, \textit{Nike Ground}, 
+internetowa\footnote{ 0100101110101101.org, \textit{Nike Ground}, 
 http://www.0100101110101101.org/home/nikeground/website/index.html (2003)},
 pawilon informacyjny, rozdano wiele ulotek informujących o planach.
 Wszystko okazało się jednak fikcją, firma dementowała rozpowszechniane
 informacje. Po jakimś czasie do zorganizowania akcji przyznała się
 grupa 0100101110101101.org wraz z działającym w Wiedniu \textit{Institute
-for New Culture Technologies}\footnote{http://www.t0.or.at/nikeground}.
+for New Culture Technologies}\footnote{ http://www.t0.or.at/nikeground}.
 Firma złożyła pozew, który został później wycofany, z poowodu obaw
 o stracenie dobrego wizerunku. Artyści chcieli zwrócić uwagę na problem
 zawłaszczania powierzchni miejskich, a także na strategie marketingowe
 stosowane przez firmę Nike. Oficjalne podsumowanie organizatorów
 przedsięwzięcia brzmiało następująco: \textit{Próby zastraszenia, którymi
 posłużył się koncern znany ze stosowania podobnych strategii marketingowych,
-wróciły do niego niczym bumerang}\footnote{Institute for New Culture
+wróciły do niego niczym bumerang}\footnote{ Institute for New Culture
 Technologies, \textit{Nike-Klage gegen Kunstprojekt zurückgezogen},
 7 stycznia 2004 roku}.
 
 %http://techsty.art.pl/HGS/ (powieść hipertekstowa)
 Przykładem polskiej strony skupiającej inicjatywy net artowej jest
-\textit{techsty.art.pl}\footnote{http://techsty.art.pl/},
+\textit{techsty.art.pl}\footnote{ http://techsty.art.pl/},
 która skupia się głównie na hipertekście. Zawiera między innymi
-hipertekstową\footnote{http://techsty.art.pl/HGS/}. Fabuła powieści
+hipertekstową\footnote{ http://techsty.art.pl/HGS/}. Fabuła powieści
 jest różna, w zależności od tego, które odnośniki zostaną wybrane
 przez czytelnika. Powieść można dzięki temu czytać wielokrotnie, za
 każdym razem tworząc niejako nową fabułę.
@@ -342,7 +351,7 @@ spowodowany chęcią odcięcia się od polityki galerii artystycznych, które
 ustanawiały rankingi artystów. Artyści szukali nowego, otwartego układu
 sztuki, który może objąć zasięgiem cały świat, globalnej, otwartej,
 wielokierunkowej komunikacji, za pomocą powszechnego
-medium.\footnote{Ryszard Kluszczyński,
+medium.\footnote{ Ryszard Kluszczyński,
 \textit{Społeczeństwo informacyjne. ...}, Kraków 2002, s. 130-132}.
 Pojawienie się Internetu, a wraz z nim net artu powoduje zamieranie sztuki
 poczty, ponieważ wszystkie jej idee można realizować za pomocą nowego medium
@@ -391,7 +400,7 @@ budynku, samochodzie, ani nawet namiocie. W ramach czwatej części cyklu --
 \textit{Art/Life} (1983-84) -- artysta razem z nieznaną mu wcześniej kobietą
 (Lindą Montano) spędził rok czasu. Byli przywiązani do siebie za pomocą
 sznura o długości 8 stóp
-(2,4 metra)\footnote{http://www.communityarts.net/readingroom/archivefiles/2002/09/year\_of\_the\_rop.php}.
+(2,4 metra)\footnote{ http://www.communityarts.net/readingroom/archivefiles/2002/09/year\_of\_the\_rop.php}.
 Piąty performance -- \textit{No Art Piece} -- był rokiem bez sztuki,
 w tym czasie (1985-86) Tehching nie rozmawiał na temat sztuki, nie widział jej,
 nie tworzył, nie czytał o niej, nie wchodził do żadnych muzeów czy galerii.
@@ -407,10 +416,10 @@ w stosunku do oryginalnych performance'ów Tehchinga. Tutaj to widz musi
 wykazać się cierpliwością, a nie artysta. Duet MTAA tłumaczy, że w ich wersji
 nikt nie musi cierpieć, jednak przeniesienie znacznego ciężaru z artysty
 na odbiorcę, można również odczytywać jako dostosowanie dzieła do cech
-sztuki Internetu\footnote{Ewa Wójtowicz, \textit{Net art}, Kraków 2008,
+sztuki Internetu\footnote{ Ewa Wójtowicz, \textit{Net art}, Kraków 2008,
 s. 151-153}.
 
-%\footnote{http://en.wikipedia.org/wiki/Tehching_Hsieh}
+%\footnote{ http://en.wikipedia.org/wiki/Tehching_Hsieh}
 
 Kolejnym bardzo ciekawym, bezpośrednim nawiązaniem net artu do konceptualizmu
 jest praca Matta Butlera \textit{XML Translation of Dan Graham's ,,Schema''},
@@ -422,7 +431,7 @@ dokumentów XML. DTD jest rodzajem meta-języka, opisującego zasady poprawnego
 tworzenia dokumentów XML, bez odniesienie się do ich treści. Jest więc tym
 dla XMLa co Graham chciał stworzyć dla dowolnego dokumentu.
 Butler przełożył zapis reguł, które zaproponował Dan Brawn na zapis w formacie
-DTD\footnote{http://www.mbutler.org/schema/}.
+DTD\footnote{ http://www.mbutler.org/schema/}.
 
 %sztuka kinetyczna (/ kinematyczna?)
 Sztuka kinetyczna jest ściśle związana z ruchem. Mamy tutaj do czynienia
@@ -446,7 +455,7 @@ wpływa na wygląd dzieła, może przemieszczać płytki względe siebie,
 jednak efekt jest krótkotrwały. Po zakończeniu działania przez użytkownika,
 płytki wracają do swojego oryginalnego położenia, sprawiając całkowitą
 efemeryczność dzieła
-sztuki\footnote{Ryszard Kluszczyński, \textit{Sztuka interaktywna},
+sztuki\footnote{ Ryszard Kluszczyński, \textit{Sztuka interaktywna},
 Warszawa 2010, s. 66-76}.
 
 %sztuka działania (happening, performance)
@@ -462,7 +471,7 @@ zmuszenie artysty do adaptowanie się do zmiennych warunków i zachowań
 odbiorców, a także czynnik czasu. Każde dzieło sztuki działania
 jest wydarzeniem, które trwa w określonym czasie. Wymienione cechy
 występują również w wielu projektach sztuki Internetu
-\footnote{Ryszard Kluszczyński, \textit{Sztuka interaktywna},
+\footnote{ Ryszard Kluszczyński, \textit{Sztuka interaktywna},
 Warszawa 2010, s. 77}.
 
 %sztuka wideo
@@ -488,7 +497,7 @@ antycypacja wideokonferencji, które są dziś powszechnie odbywane.
 Niektóre dzieła sztuki wideo próbowały wykorzystać technologię do
 komunikacji, tworzyły dzieła interaktywne, zależne od uczestników
 i od czasu, miały więc cechy sztuki Internetu, choć operowały innym medium,
-inną technologią\footnote{Ryszard Kluszczyński, \textit{Sztuka interaktywna},
+inną technologią\footnote{ Ryszard Kluszczyński, \textit{Sztuka interaktywna},
 Warszawa 2010, s. 105-109}.
 
 %sztuka telematyczna
@@ -499,15 +508,15 @@ dzieła były reazlizowane za pomocą połączeń satelitarnych pomiędzy kilkom
 albo nawet kilkunastoma krajami, często z różnych kontentów. Połączeni
 satelitarnie ze sobą artyści wykonywali ustalone czynności, np. tańczyli,
 co było możliwe do zobaczenia na jednym ekranie, gdzie obraz miksowany był ze
-wszystkich miejsc\footnote{Ewa Wójtowicz, \textit{Net art}, Kraków 2008,
+wszystkich miejsc\footnote{ Ewa Wójtowicz, \textit{Net art}, Kraków 2008,
 s. 175-177}.
 %tu nie prawda !!!!!!!!
 %Przykłady dzieł, które można zaliczyć do telematycznych
 %można znaleźć również współcześnie. Jest to na przykład projekt tworzenia
 %muzyki w jednym czasie przez kilku artystów znajdujących się w zupełnie
 %różnych miejscach połączonych ze sobą zapomocą.
-%\footnote{http://en.wikipedia.org/wiki/Playing_for_change}
-%\footnote{http://www.playingforchange.com/}
+%\footnote{ http://en.wikipedia.org/wiki/Playing_for_change}
+%\footnote{ http://www.playingforchange.com/}
 
 %awangarda XX wieku czyli krótkie podsumowanie tematu nawiązeń
 Wszystkie wymienione wyżej prądy i kierunki sztuki mają pewną wspólną cechę.
@@ -681,12 +690,12 @@ na który nikt wcześniej nie wpadł badając w ten sposób jego granice.
 %Zakończenie.
 
 \begin{thebibliography}{6}
-%\footnote{Ewa Wójtowicz, \textit{Net art}, Kraków 2008, s. 1-2}
+%\footnote{ Ewa Wójtowicz, \textit{Net art}, Kraków 2008, s. 1-2}
 \bibitem{EWA}
   Ewa Wójtowicz:
   \textit{Net art},
   Wydawnictwo Rabid, Kraków 2008
-%\footnote{Ryszard Kluszczyński, \textit{Sztuka interaktywna}, Warszawa 2010, s. 1-2}
+%\footnote{ Ryszard Kluszczyński, \textit{Sztuka interaktywna}, Warszawa 2010, s. 1-2}
 \bibitem{SZT-I}
   Ryszard W. Kluszczyński:
   \textit{Sztuka interaktywna},
@@ -701,7 +710,7 @@ na który nikt wcześniej nie wpadł badając w ten sposób jego granice.
   Maria Gołaszewska:
   \textit{Estetyka i antyestetyka},
   Wiedza Powszechna, Warszawa 1984
-%\footnote{Ryszard Kluszczyński, \textit{Społeczeństwo informacyjne. ...}, Kraków 2002, s. 1-2}
+%\footnote{ Ryszard Kluszczyński, \textit{Społeczeństwo informacyjne. ...}, Kraków 2002, s. 1-2}
 \bibitem{CYBERKULTURA}
   Ryszard W. Kluszczyński:
   \textit{Społeczeństwo informacyjne. Cyberkultura. Sztuka multimediów},
